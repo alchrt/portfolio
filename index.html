@@ -136,19 +136,19 @@
 							</section>
 						</section>
 						<section>
-							<form name="gform" id="gform" enctype="text/plain" method="post" action="https://docs.google.com/forms/d/1Y2rdKv6djQ1waB51aM-jxOub3LS_kyX51GjgEyZO3oI/formResponse?">
+							<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/1Y2rdKv6djQ1waB51aM-jxOub3LS_kyX51GjgEyZO3oI/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
 								<div class="fields">
 									<div class="field">
 										<label for="name">Name</label>
-										<input type="text" name="entry.836461745" id="name" />
+										<input type="text" name="entry.836461745" id="entry.836461745" />
 									</div>
 									<div class="field">
 										<label for="email">Email</label>
-										<input type="text" name="entry.1627268763" id="email" />
+										<input type="text" name="entry.1627268763" id="entry.1627268763" />
 									</div>
 									<div class="field">
 										<label for="message">Message</label>
-										<textarea name="entry.1970381198" id="message" rows="3"></textarea>
+										<textarea name="entry.1970381198" id="entry.1970381198" rows="3"></textarea>
 									</div>
 								</div>
 								<ul class="actions">
@@ -179,8 +179,8 @@
 			<script type="text/javascript">var submitted=false;</script>
 			<script type="text/javascript">
 			$('#gform').on('submit', function(e) {
-				$('#gform *').fadeOut(2000);
-				$('#gform').prepend('Your submission has been processed...');
+				$('#gform *').fadeOut(1500);
+				$('#gform').prepend('Your submission has been processed');
 				});
 			</script>
 
