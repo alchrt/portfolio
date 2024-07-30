@@ -34,13 +34,13 @@ body {
     overflow-y: hidden; }
 
 a {
-  color: #948175;
+  color: #afa29a;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover {
     text-decoration: underline;
-    color: #948175; }
+    color: #afa29a; }
   a:focus, a:active {
     outline: none; }
 
@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6 {
           outline: none;
           text-decoration: none; }
       #colorlib-main-nav ul li.active a {
-        color: #948175; }
+        color: #afa29a; }
   #colorlib-main-nav .form-group {
     margin-bottom: 40px;
     position: relative;
@@ -238,7 +238,7 @@ h1, h2, h3, h4, h5, h6 {
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     border-radius: 0;
-    background: #948175;
+    background: #afa29a;
     color: #fff;
     border: none;
     padding: 16px; }
@@ -988,18 +988,18 @@ header {
     outline: none !important; }
 
 .btn-primary {
-  background: #ac9e8f;
+  background: #afa29a;
   color: #fff;
-  border: 2px solid #ac9e8f; }
+  border: 2px solid #afa29a; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background: #ad9e95 61% 16%) !important;
-    border-color: #ad9e95 !important; }
+    background: #c0b4ac 61% 16%) !important;
+    border-color: #c0b4ac !important; }
   .btn-primary.btn-outline {
     background: transparent;
     color: #4d4d4d;
     border: 1px solid #d9d9d9; }
     .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-      background: #948175;
+      background: #afa29a;
       color: #fff; }
 
 .btn-success {
@@ -1229,7 +1229,7 @@ header {
       font-size: 16px;
       color: rgba(0, 0, 0, 0.5); }
     .contact-info li a {
-      color: #948175; }
+      color: #afa29a; }
 
 .form-control {
   -webkit-box-shadow: none;
@@ -1261,7 +1261,7 @@ input[type="text"] {
 
 .colorlib-social-icons i {
   font-size: 24px;
-  color: #948175; }
+  color: #afa29a; }
 
 #footer {
   padding: 8em 0;
@@ -1278,7 +1278,7 @@ input[type="text"] {
     text-decoration: none !important; }
   #footer p.colorlib-social-icons i {
     font-size: 24px;
-    color: #948175; }
+    color: #afa29a; }
   #footer p .block {
     color: #1a1a1a;
     font-size: 14px; }
@@ -1301,7 +1301,7 @@ input[type="text"] {
     #footer .subscribe .form-control:focus, #footer .subscribe .form-control:active {
       -webkit-box-shadow: none;
       box-shadow: none;
-      border: 2px solid rgb(148, 129, 117); }
+      border: 2px solid rgb(175, 162, 154); }
   #footer .subscribe .btn-custom {
     width: 100%;
     padding: 10px 0;
