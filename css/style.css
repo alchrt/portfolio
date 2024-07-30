@@ -34,13 +34,13 @@ body {
     overflow-y: hidden; }
 
 a {
-  color: #948575;
+  color: #948175;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover {
     text-decoration: underline;
-    color: #948575; }
+    color: #948175; }
   a:focus, a:active {
     outline: none; }
 
@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6 {
           outline: none;
           text-decoration: none; }
       #colorlib-main-nav ul li.active a {
-        color: #948575; }
+        color: #948175; }
   #colorlib-main-nav .form-group {
     margin-bottom: 40px;
     position: relative;
@@ -238,7 +238,7 @@ h1, h2, h3, h4, h5, h6 {
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     border-radius: 0;
-    background: #948575;
+    background: #948175;
     color: #fff;
     border: none;
     padding: 16px; }
@@ -992,14 +992,14 @@ header {
   color: #fff;
   border: 2px solid #ac9e8f; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background: #d6b99a 61% 16%) !important;
-    border-color: #d6b99a !important; }
+    background: #ad9e95 61% 16%) !important;
+    border-color: #ad9e95 !important; }
   .btn-primary.btn-outline {
     background: transparent;
     color: #4d4d4d;
     border: 1px solid #d9d9d9; }
     .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-      background: #948575;
+      background: #948175;
       color: #fff; }
 
 .btn-success {
@@ -1229,7 +1229,7 @@ header {
       font-size: 16px;
       color: rgba(0, 0, 0, 0.5); }
     .contact-info li a {
-      color: #948575; }
+      color: #948175; }
 
 .form-control {
   -webkit-box-shadow: none;
@@ -1261,7 +1261,7 @@ input[type="text"] {
 
 .colorlib-social-icons i {
   font-size: 24px;
-  color: #948575; }
+  color: #948175; }
 
 #footer {
   padding: 8em 0;
@@ -1278,7 +1278,7 @@ input[type="text"] {
     text-decoration: none !important; }
   #footer p.colorlib-social-icons i {
     font-size: 24px;
-    color: #948575; }
+    color: #948175; }
   #footer p .block {
     color: #1a1a1a;
     font-size: 14px; }
@@ -1301,7 +1301,7 @@ input[type="text"] {
     #footer .subscribe .form-control:focus, #footer .subscribe .form-control:active {
       -webkit-box-shadow: none;
       box-shadow: none;
-      border: 2px solid rgb(155, 135, 113); }
+      border: 2px solid rgb(148, 129, 117); }
   #footer .subscribe .btn-custom {
     width: 100%;
     padding: 10px 0;
