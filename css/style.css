@@ -992,7 +992,7 @@ header {
   color: #fff;
   border: 2px solid #afa29a; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background: #c0b4ac 61% 16%) !important;
+    background: #c0b4ac 61% 16% !important;
     border-color: #c0b4ac !important; }
   .btn-primary.btn-outline {
     background: transparent;
@@ -1119,7 +1119,7 @@ header {
     display: -moz-inline-stack;
     display: inline-block;
     zoom: 1;
-    *display: inline;
+    display: inline;
     width: 20px;
     height: 2px;
     color: #000;
