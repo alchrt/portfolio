@@ -304,7 +304,7 @@ header {
     header {
       padding: 2em 0; } }
   header .colorlib-navbar-brand {
-    float: left; }
+    float: right; }
     header .colorlib-navbar-brand .colorlib-logo {
       font-size: 20px;
       text-transform: uppercase;
